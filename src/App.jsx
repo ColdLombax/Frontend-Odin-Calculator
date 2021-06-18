@@ -16,3 +16,8 @@ function App() {
 }
 
 export default App;
+
+// Todo List
+// Ensure Accessability.
+// Add Box Shadow to Buttons.
+// Add Functionality.
