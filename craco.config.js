@@ -1,9 +1,11 @@
+/* eslint-disable global-require */
+/* eslint-disable import/no-extraneous-dependencies */
 module.exports = {
   style: {
     postcss: {
       plugins: [
-        global.require('tailwindcss'),
-        global.require('autoprefixer'),
+        require('tailwindcss'),
+        require('autoprefixer'),
       ],
     },
   },
