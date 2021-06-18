@@ -8,7 +8,7 @@ module.exports = {
         'dark-font': '#FFFFFF',
         'dark-screen-bg': '#181F33',
         'dark-btn-bg': '#242D44',
-        'dark-primary': '#434A59',
+        'dark-primary': '#3A4663',
         'dark-secondary': '#D03F2F',
         'dark-btn-shadow': '#B3A497',
         'dark-btn-primary': '#EAE3DC',
