@@ -13,6 +13,8 @@ module.exports = {
         'dark-btn-shadow': '#B3A497',
         'dark-btn-primary': '#EAE3DC',
         'dark-btn-secondary': '#647198',
+        'dark-btn-font': '#434A59',
+        'dark-btn-accent': '#D03F2F',
 
         // Theme #2
         'light-font': '#36362C',
@@ -23,6 +25,8 @@ module.exports = {
         'light-btn-shadow': '#A79E91',
         'light-btn-primary': '#E5E4E1',
         'light-btn-secondary': '#378187',
+        'light-btn-font': '#36362C',
+        'light-btn-accent': '#C85402',
 
         // Theme #3
         'retro-font': '#FFE53D',
@@ -32,7 +36,9 @@ module.exports = {
         'retro-secondary': '#00DED0',
         'retro-btn-shadow': '#881C9E',
         'retro-btn-primary': '#331C4D',
+        'retro-btn-accent': '#00DED0',
         'retro-btn-secondary': '#56077C',
+        'retro-btn-font': '#FFE53D',
       },
     },
   },
